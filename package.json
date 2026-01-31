@@ -1,0 +1,22 @@
+{
+  "name": "it23176324_itpm_assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayumiRovinya/IT23176324_ITPM_Assignment1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SayumiRovinya/IT23176324_ITPM_Assignment1/issues"
+  },
+  "homepage": "https://github.com/SayumiRovinya/IT23176324_ITPM_Assignment1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.1.0"
+  }
+}
